@@ -11,4 +11,8 @@ public class JenkinsCalculator {
 		return numberOne - numberTwo;
 	}
 
+	public static void main(string[] args) {
+JenkinsCalculator objJenkinsCalculator=new JenkinsCalcultor();
+System.out.println(objJenkinsCalculator.addNumbers(3,4));
+}
 }
